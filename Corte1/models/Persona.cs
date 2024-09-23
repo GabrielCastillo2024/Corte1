@@ -12,5 +12,7 @@ namespace Corte1.models
         public string Apellidos { get; set; }
         public DateTime FechaNacimiento { get; set; }
         public string Ciudad { get; set; }
+
+
     }
 }
