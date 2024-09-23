@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|c:\\users\\gabri\\desktop\\examen\\corte1\\models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|solutionrelative:models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|c:\\users\\gabri\\desktop\\examen\\corte1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|solutionrelative:models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|c:\\users\\gabri\\desktop\\examen\\corte1\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{021E7329-A371-4D6D-8426-F8FB14A5973B}|Corte1.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\models\\Operacion.cs",
+              "RelativeDocumentMoniker": "models\\Operacion.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\models\\Operacion.cs",
+              "RelativeToolTip": "models\\Operacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:15:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\models\\Registro.cs",
               "RelativeDocumentMoniker": "models\\Registro.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\models\\Persona.cs",
               "RelativeDocumentMoniker": "models\\Persona.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "models\\Persona.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:08:11.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T16:08:11.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Examen\\Corte1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
